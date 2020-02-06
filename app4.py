@@ -1,6 +1,4 @@
 import streamlit as st
-import os # os.chdir("link to data if in different place")
-os.chdir(r"/Users/natalie/Documents/insight/project/streamlit")
 
 # Analysis packages
 import pandas as pd
