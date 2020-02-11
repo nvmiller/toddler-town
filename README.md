@@ -9,7 +9,7 @@ The user interface for the app can be found here: `bit.ly/toddler-town`
 ## Data sources
 
 Data are collected from several sources:
-1.	The United States Census Bureau for demographic and employment information from the American Community Survey. `https://www.census.gov/programs-surveys/acs`
+1.	The United States Census Bureau for demographic and employment information from the American Community Survey. `census.gov/programs-surveys/acs`
 2.	The Quandl API for rental cost information from Zillow. `quandl.com/data/ZILLOW-Zillow-Real-Estate-Research`
 3.	The Office of Policy Development and Research for information on residential and business density. `huduser.gov/portal/datasets/usps_crosswalk.html`
 4.	Harvard University WorldMap for geospatial data on census tracts. `worldmap.harvard.edu`
