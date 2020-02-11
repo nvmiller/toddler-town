@@ -7,11 +7,11 @@ Python was used for data pre-processing, modeling, and geospatial mapping. Toddl
 ## Data sources
 
 Data are collected from several sources:
-1.	The United States Census Bureau for demographic and employment information from the American Community Survey. (WEBSITE)
-2.	The Quandl API for rental cost information from Zillow. 'quandl.com/data/ZILLOW-Zillow-Real-Estate-Research'
-3.	The Office of Policy Development and Research for information on residential and business density. (huduser.gov/portal/datasets/usps_crosswalk.html)
-4.	Harvard University WorldMap for geospatial data on census tracts. (worldmap.harvard.edu)
-5.	Texas Health and Human Services for addresses and capacities of licensed daycares in Houston. (dfps.state.tx.us/Child_Care/Search_Texas_Child_Care) 
+1.	The United States Census Bureau for demographic and employment information from the American Community Survey. `https://www.census.gov/programs-surveys/acs`
+2.	The Quandl API for rental cost information from Zillow. `quandl.com/data/ZILLOW-Zillow-Real-Estate-Research`
+3.	The Office of Policy Development and Research for information on residential and business density. `huduser.gov/portal/datasets/usps_crosswalk.html`
+4.	Harvard University WorldMap for geospatial data on census tracts. `worldmap.harvard.edu`
+5.	Texas Health and Human Services for addresses and capacities of licensed daycares in Houston. `dfps.state.tx.us/Child_Care/Search_Texas_Child_Care` 
 
 ## Data processing 
 
@@ -30,6 +30,9 @@ Users select a city through a python/Streamlit app. The model is applied to the 
 
 ## Data structures
 
-1. Geospatial data for census tracts by city are in 
+1. Geospatial data for census tracts by city are in `Austin_Census_Tracts_9Gg.json` and `Census_Tracts_Houston1.MgV.json`.
+2. Feature data for cities are in `austin_66_features.csv` and `houston_66_features.csv`.
+3. The lasso model is contained in `finalized_model_lasso.sav`.
+4. `app4.py` is the streamlit file.
 
 
