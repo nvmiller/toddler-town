@@ -2,7 +2,7 @@
 
 Toddler-town is a modeling tool for estimating daycare need in cities across different neighborhoods. The model estimates a mis-match between supply and demand of daycare spots. It was developed using data from the city of Houston, but the workflow to develop the model could be applied to any city. 
 
-Python was used for data pre-processing, modeling, and geospatial mapping. Toddler-town’s app was developed using Streamlit and deployed on an AWS server. 
+Python was used for data pre-processing, modeling, and geospatial mapping. Toddler-town’s app was developed using Python's Streamlit and deployed on an AWS server. 
 
 ## Data sources
 
