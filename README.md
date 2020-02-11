@@ -8,7 +8,7 @@ Python was used for data pre-processing, modeling, and geospatial mapping. Toddl
 
 Data are collected from several sources:
 1.	The United States Census Bureau for demographic and employment information from the American Community Survey. (WEBSITE)
-2.	The Quandl API for rental cost information from Zillow. '''quandl.com/data/ZILLOW-Zillow-Real-Estate-Research'''
+2.	The Quandl API for rental cost information from Zillow. 'quandl.com/data/ZILLOW-Zillow-Real-Estate-Research'
 3.	The Office of Policy Development and Research for information on residential and business density. (huduser.gov/portal/datasets/usps_crosswalk.html)
 4.	Harvard University WorldMap for geospatial data on census tracts. (worldmap.harvard.edu)
 5.	Texas Health and Human Services for addresses and capacities of licensed daycares in Houston. (dfps.state.tx.us/Child_Care/Search_Texas_Child_Care) 
